@@ -49,6 +49,13 @@ body{
     cursor:pointer;
 }
 
+#prev{
+    margin-top:20px;
+    padding:12px 25px;
+    font-size:16px;
+    cursor:pointer;
+}
+
 #result{
     margin-top:20px;
     font-size:22px;
