@@ -43,7 +43,8 @@ body{
 }
 
 #next{
-    margin-top:20px;
+    margin-top:-50px;
+    margin-left: 610px;
     padding:12px 25px;
     font-size:16px;
     cursor:pointer;
